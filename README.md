@@ -1,6 +1,14 @@
 # 🌍 Multilingual & Multi-Domain ABSA for E-commerce Reviews
 
 ## Overview
+## 📷 Application Demo
+
+![Dashboard Demo](screenshots/home.png)
+
+## 🏗️ System Architecture
+
+![Architecture](screenshots/architecture.png)
+
 
 This project develops an Aspect-Based Sentiment Analysis (ABSA) system for e-commerce reviews using XLM-RoBERTa and Multi-Task Learning.
 
